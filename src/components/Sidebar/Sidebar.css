@@ -1,0 +1,10 @@
+.sidenav {
+  position: fixed;
+  height: 100%;
+  background: #1f2329;
+}
+
+.sidenav-body {
+  position: absolute;
+  bottom: 0;
+}
