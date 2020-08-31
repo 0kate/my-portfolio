@@ -19,7 +19,7 @@ export const TIMELINES = [
   },
   {
     date: '2019-03-23',
-    description: 'I started working at JTP',
+    description: 'I started working as Web Programmer',
   },
   {
     date: getCurrentDate(),
