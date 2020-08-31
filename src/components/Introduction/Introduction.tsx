@@ -70,12 +70,11 @@ const Introduction = (props: PropsFromRedux) => (
         <Panel>
           <img src={mypic} />
           <Panel>
-            <p><strong>Keito Osaki</strong>(大崎 圭隼)</p>
+            <p><strong>Keito Osaki</strong></p>
             <p>1999/03/17</p>
-            <p>20 years old</p>
+            <p>21 years old</p>
             <p>Programmer💻</p>
             <p>Japan 🇯🇵</p>
-            <p>Japan Third Party. co</p>
             <p></p>
           </Panel>
         </Panel>
