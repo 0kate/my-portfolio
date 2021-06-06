@@ -1,0 +1,25 @@
+.background {
+    height: 100vh;
+    z-index: -1;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.code {
+    animation: fadeInOut 6s infinite;
+}
+
+@keyframes fadeInOut {
+    0% {
+	opacity: 0;
+	margin-top: 100%;
+    }
+    50% {
+	opacity: 1;
+    }
+    100% {
+	opacity: 0;
+	margin-top: 0%;
+    }
+}
